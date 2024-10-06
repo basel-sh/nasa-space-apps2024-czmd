@@ -18,7 +18,7 @@ export default function Footer(){
             </ul>
           </div>
         </div>
-        <p className="copyright">Copyright 2024 <span style={{color:'#70a8f0'}}>CZMD</span> Team.</p>
+        <p className="copyright">Copyright 2024 <span style={{color:'#70a8f0'}}>CZ</span> Team.</p>
       </div>
     </footer>
   );

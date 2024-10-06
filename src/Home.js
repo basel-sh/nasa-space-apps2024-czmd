@@ -25,7 +25,7 @@ export default function Home() {
     <section className="main">
         <div>
             <h2>Hello, We are<br></br><span>CZMD</span></h2>
-            <h3>We aim for facilitating the searching of the HWO Planets by the average simple user</h3>
+            <h3>We aim to visualise the Habitable World Observatory HWO's search of exoplanets for the average user.</h3>
 
             
         </div>
@@ -38,8 +38,8 @@ export default function Home() {
                 <div className="icon">
                 <i className="fa-solid fa-location-dot"></i>
                     <div className="info">
-                        <h3>Navigating HWO Planets</h3>
-                        <p>You can use this service rendering the solar system of a discoverd Stars system.</p>
+                        <h3>Navigating Exoplanets</h3>
+                        <p>You can use this service to render the solar system of a discovered exostarial system.</p>
                     </div>
                 </div>
             </div>
@@ -48,8 +48,8 @@ export default function Home() {
                 <div className="icon">
                 <i className="fa-solid fa-microchip"></i>
                     <div className="info">
-                        <h3>Usin AI  to predict if it is habitable</h3>
-                        <p>We use AI that depends on some conditions announced by NASA to predict with a percentage if it can be habitable or not.</p>
+                        <h3>Using AI to Predict If They Are Habitable</h3>
+                        <p>We use AI that depends on some conditions announced by NASA to predict a percentage of whether the exoplanet can be habitable or not.</p>
 
                     </div>
                 </div>
@@ -59,8 +59,8 @@ export default function Home() {
                 <div className="icon">
                 <i className="fa-solid fa-circle-info"></i>
                     <div className="info">
-                        <h3>Reading Bodies informations</h3>
-                        <p>Every Planet you can render you can read All the information of this plannet given by NASA DataBase.</p>
+                        <h3>Reading Bodies' Information</h3>
+                        <p>You can read All information available on your chosen planet across various NASA databases in a simple, clear manner.</p>
 
                     </div>
                 </div>
