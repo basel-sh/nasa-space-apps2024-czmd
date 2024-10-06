@@ -15,7 +15,6 @@ export default function Footer(){
             <ul className='ulfooter'>
               <Link className='lii' to='/'>Home</Link>
               <Link className='lii' to='/dashboard'>DashBoard</Link>
-              <Link className='lii' to='/HowToUse'>How To Use</Link>
             </ul>
           </div>
         </div>

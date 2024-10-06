@@ -704,24 +704,13 @@ transform: scale(1.1);
   margin-top: 5px;
 }
 .informationDivBar {
-  width: 100%; /* or a fixed width, e.g., 500px */
   height: auto; /* You can also set a fixed height, e.g., 300px */
   overflow: auto; /* Enables scrolling when content overflows */
   padding: 10px; /* Optional, for inner spacing */
   border: 1px solid #ccc; /* Optional, border styling */
-  width: 500px;
-
-}
-
-.AllInformations {
-  display: flex; /* Align columns horizontally */
-  justify-content: space-between; /* Space between the columns */
-  flex-wrap: wrap; /* Ensure it wraps if columns exceed available width */
-
+  width: 620px;
 
 }
 
 .f1stcolumn, .s2ndcolumn {
-  flex: 1 1 45%; /* Each column takes 45% of the available space */
-  margin-bottom: 10px; /* Add spacing between rows */
   overflow-wrap: break-word; /* Break long words if needed */}
