@@ -9,10 +9,10 @@ from io import StringIO
 # TODO Move These Values to Environment Variables - if there is a time
 # Database connection details
 user = 'avnadmin'
-password = 'AVNS_pI1ZxY33VYVDFuvMAoQ'
-host = 'mysql-1d8c254f-czmd-db.l.aivencloud.com'
+password = ''
+host = ''
 database = 'defaultdb'
-port = '25246'
+port = ''
 
 # Create a connection to the database
 engine = create_engine(f'mysql+pymysql://{user}:{password}@{host}:{port}/{database}')
